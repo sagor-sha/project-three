@@ -1,5 +1,27 @@
 
 
+
+.heading{
+     font-size: large;
+     font-weight: 700px;
+}
 nav{
   display: flex;
+  justify-content: space-between;
+
+}
+
+.btn-title{
+     background-color: blue;
+     font-weight: bold;
+     font-size: 18px;
+     padding: auto;
+     color: aliceblue;
+     border: none;
+     border-radius: 5px;
+}
+
+.btn-title:hover{
+     background-color: brown;
+     
 }
